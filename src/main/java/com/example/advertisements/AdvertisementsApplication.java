@@ -8,7 +8,7 @@ public class AdvertisementsApplication {
 	//sdfsdffsdfsdf
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdvertisementsApplication.class, args);
+		SpringApplication.run1(AdvertisementsApplication.class, args);
 	}
 
 }
